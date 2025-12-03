@@ -31,8 +31,7 @@ Soal No 2: Subnetting (VLSM) & Pohon Subnet
 Berikut adalah hasil perhitungan subnetting menggunakan metode VLSM dan visualisasi pohon subnet (Subnet Tree).
 
 **Tabel VLSM:**
-![Tabel VLSM](<img width="1724" height="353" alt="Screenshot 2025-12-03 152128" src="https://github.com/user-attachments/assets/3d097d5f-0e1f-4013-a3c1-3a8a000d8f60" />
-)
+![Tabel VLSM](<img width="1724" height="353" alt="Screenshot 2025-12-03 152128" src="https://github.com/user-attachments/assets/4b59c57e-479b-406c-ad48-783e2e7551ed" />)
 
 
 **Pohon Subnet (Subnet Tree):**
