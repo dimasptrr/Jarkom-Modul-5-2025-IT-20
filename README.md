@@ -31,13 +31,10 @@ Soal No 2: Subnetting (VLSM) & Pohon Subnet
 Berikut adalah hasil perhitungan subnetting menggunakan metode VLSM dan visualisasi pohon subnet (Subnet Tree).
 
 **Tabel VLSM:**
-![Tabel VLSM](<img width="1724" height="353" alt="Screenshot 2025-12-03 152128" src="https://github.com/user-attachments/assets/4b59c57e-479b-406c-ad48-783e2e7551ed" />)
-
+<img src="https://github.com/user-attachments/assets/3d097d5f-0e1f-4013-a3c1-3a8a000d8f60" alt="Tabel VLSM" width="100%">
 
 **Pohon Subnet (Subnet Tree):**
-![Subnet Tree](<img width="1716" height="639" alt="Screenshot 2025-12-03 161227" src="https://github.com/user-attachments/assets/8e7c8639-b265-4a07-b304-4ff5b1bcfb73" />
-)
-
+<img src="https://github.com/user-attachments/assets/8e7c8639-b265-4a07-b304-4ff5b1bcfb73" alt="Subnet Tree" width="100%">
 
 Soal No 3: Konfigurasi Routing
 Melakukan konfigurasi IP address pada setiap interface dan routing statis agar semua node dapat saling terhubung.
